@@ -1,0 +1,15 @@
+1. Snickers
+0.80
+7
+2. Mars
+0.75
+9
+3. Sprite
+1.00
+10
+4. Coca-Cola
+1.20
+14
+5. Submarine
+3.00
+5
